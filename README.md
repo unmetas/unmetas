@@ -9,7 +9,7 @@
 
 - ♟️I'm going to be learning **How Malware works, Backend Development and learning a couple new languages such as C and Java.**
 
-- 📄 Know about my experiences [Look at my repository lmfao, I'll be posting everything I learn there.](Look at my repository lmfao, I'll be posting everything I learn there.)
+- 📄 Know about my experiences [Look at my repository lmfao, I'll be posting everything I learn there.]
 
 - ⚡ Fun fact **According to Einstein's Special Theory of Relativity, it is possible to go slower than light and faster than light, but it is impossible to go at the speed of light. Also, there is a particle called tachyon, which is supposed to go faster than light. This means if you fire a tachyon beam, it travels before you fire it.**
 
